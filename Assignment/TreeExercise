@@ -1,0 +1,41 @@
+Question 1:
+
+                    A
+            B       E       F
+       (C       D)     (G       H)
+
+Question 2:
+
+a/ Root: A
+b/ Leaves: D, E, H, L, J
+c/ Internal Nodes: B, F, C, G, I, K
+d/ Ancestors of H: A, F, G
+e/ Decendents of F: G, H, I, J, K, L
+
+Question 3:
+
+a/ Indegree of Node F: 1
+b/ Outdegree of Node B: 1
+c/ Siblings of H: I, J
+d/ Parent of K: I
+e/ Children of C: D, E
+
+Question 4:
+
+a/ Height of C: 6
+b/ Height of Subtree G: 4
+c/ Level of Node G: 2
+d/ Level of Node A: 0
+e/ Height of Subtree E: 1
+
+Question 5:
+
+            F
+            G
+        H   I   J
+            K
+            L
+
+Question 6:
+
+Indented List representation of the Tree: A (B (C (D E)) F (G (H I (K (L)) J)))
